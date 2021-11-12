@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PomacTask</string>
+
+    <string name="movie_title">العنوان</string>
+    <string name="published_by">نشر بواسطة</string>
+    <string name="date">التاريخ</string>
+    <string name="retry_error">حدث خطأ برجاء المحاولة في وقت اخر</string>
+    <string name="rating">التقييم</string>
+    <string name="summary">الملخص</string>
+
+</resources>
